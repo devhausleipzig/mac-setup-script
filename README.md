@@ -1,4 +1,4 @@
-# Setup your Dev Environemnt
+# Setup your Dev Environment
 
 1. Download the contents of the repo (Click code on the upper rigth, then Download ZIP)
 2. Create folder in your home directory called `dev`
